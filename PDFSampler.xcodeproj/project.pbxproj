@@ -13,6 +13,19 @@
 		52ED83D225376C6F00F42F9D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52ED83D025376C6F00F42F9D /* Main.storyboard */; };
 		52ED83D425376C7100F42F9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52ED83D325376C7100F42F9D /* Assets.xcassets */; };
 		52ED83D725376C7100F42F9D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52ED83D525376C7100F42F9D /* LaunchScreen.storyboard */; };
+		52ED83EC25376CB000F42F9D /* beyond-code.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 52ED83E125376CAF00F42F9D /* beyond-code.pdf */; };
+		52ED83ED25376CB000F42F9D /* hacking-with-tvos.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 52ED83E225376CAF00F42F9D /* hacking-with-tvos.pdf */; };
+		52ED83EE25376CB000F42F9D /* hacking-with-swift.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 52ED83E325376CAF00F42F9D /* hacking-with-swift.pdf */; };
+		52ED83EF25376CB000F42F9D /* hacking-with-watchos.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 52ED83E425376CAF00F42F9D /* hacking-with-watchos.pdf */; };
+		52ED83F025376CB000F42F9D /* server-side-swift.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 52ED83E525376CAF00F42F9D /* server-side-swift.pdf */; };
+		52ED83F125376CB000F42F9D /* swift-coding-challenges.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 52ED83E625376CAF00F42F9D /* swift-coding-challenges.pdf */; };
+		52ED83F225376CB000F42F9D /* practical-ios-11.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 52ED83E725376CB000F42F9D /* practical-ios-11.pdf */; };
+		52ED83F325376CB000F42F9D /* pro-swift.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 52ED83E825376CB000F42F9D /* pro-swift.pdf */; };
+		52ED83F425376CB000F42F9D /* hacking-with-macos.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 52ED83E925376CB000F42F9D /* hacking-with-macos.pdf */; };
+		52ED83F525376CB000F42F9D /* advanced-ios-volume-one.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 52ED83EA25376CB000F42F9D /* advanced-ios-volume-one.pdf */; };
+		52ED83F625376CB000F42F9D /* objective-c-for-swift-developers.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 52ED83EB25376CB000F42F9D /* objective-c-for-swift-developers.pdf */; };
+		52ED83F925376CEE00F42F9D /* FilesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52ED83F825376CEE00F42F9D /* FilesViewController.swift */; };
+		52ED84132539FF7200F42F9D /* SampleWatermark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52ED84122539FF7200F42F9D /* SampleWatermark.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +37,19 @@
 		52ED83D325376C7100F42F9D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52ED83D625376C7100F42F9D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		52ED83D825376C7100F42F9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52ED83E125376CAF00F42F9D /* beyond-code.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "beyond-code.pdf"; sourceTree = "<group>"; };
+		52ED83E225376CAF00F42F9D /* hacking-with-tvos.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "hacking-with-tvos.pdf"; sourceTree = "<group>"; };
+		52ED83E325376CAF00F42F9D /* hacking-with-swift.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "hacking-with-swift.pdf"; sourceTree = "<group>"; };
+		52ED83E425376CAF00F42F9D /* hacking-with-watchos.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "hacking-with-watchos.pdf"; sourceTree = "<group>"; };
+		52ED83E525376CAF00F42F9D /* server-side-swift.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "server-side-swift.pdf"; sourceTree = "<group>"; };
+		52ED83E625376CAF00F42F9D /* swift-coding-challenges.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "swift-coding-challenges.pdf"; sourceTree = "<group>"; };
+		52ED83E725376CB000F42F9D /* practical-ios-11.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "practical-ios-11.pdf"; sourceTree = "<group>"; };
+		52ED83E825376CB000F42F9D /* pro-swift.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "pro-swift.pdf"; sourceTree = "<group>"; };
+		52ED83E925376CB000F42F9D /* hacking-with-macos.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "hacking-with-macos.pdf"; sourceTree = "<group>"; };
+		52ED83EA25376CB000F42F9D /* advanced-ios-volume-one.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "advanced-ios-volume-one.pdf"; sourceTree = "<group>"; };
+		52ED83EB25376CB000F42F9D /* objective-c-for-swift-developers.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "objective-c-for-swift-developers.pdf"; sourceTree = "<group>"; };
+		52ED83F825376CEE00F42F9D /* FilesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilesViewController.swift; sourceTree = "<group>"; };
+		52ED84122539FF7200F42F9D /* SampleWatermark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleWatermark.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,12 +85,33 @@
 				52ED83CA25376C6F00F42F9D /* AppDelegate.swift */,
 				52ED83CC25376C6F00F42F9D /* SceneDelegate.swift */,
 				52ED83CE25376C6F00F42F9D /* ViewController.swift */,
+				52ED83F825376CEE00F42F9D /* FilesViewController.swift */,
+				52ED84122539FF7200F42F9D /* SampleWatermark.swift */,
 				52ED83D025376C6F00F42F9D /* Main.storyboard */,
 				52ED83D325376C7100F42F9D /* Assets.xcassets */,
 				52ED83D525376C7100F42F9D /* LaunchScreen.storyboard */,
 				52ED83D825376C7100F42F9D /* Info.plist */,
+				52ED83E025376C9E00F42F9D /* Resources */,
 			);
 			path = PDFSampler;
+			sourceTree = "<group>";
+		};
+		52ED83E025376C9E00F42F9D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				52ED83EA25376CB000F42F9D /* advanced-ios-volume-one.pdf */,
+				52ED83E125376CAF00F42F9D /* beyond-code.pdf */,
+				52ED83E925376CB000F42F9D /* hacking-with-macos.pdf */,
+				52ED83E325376CAF00F42F9D /* hacking-with-swift.pdf */,
+				52ED83E225376CAF00F42F9D /* hacking-with-tvos.pdf */,
+				52ED83E425376CAF00F42F9D /* hacking-with-watchos.pdf */,
+				52ED83EB25376CB000F42F9D /* objective-c-for-swift-developers.pdf */,
+				52ED83E725376CB000F42F9D /* practical-ios-11.pdf */,
+				52ED83E825376CB000F42F9D /* pro-swift.pdf */,
+				52ED83E525376CAF00F42F9D /* server-side-swift.pdf */,
+				52ED83E625376CAF00F42F9D /* swift-coding-challenges.pdf */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,9 +171,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52ED83F525376CB000F42F9D /* advanced-ios-volume-one.pdf in Resources */,
+				52ED83F425376CB000F42F9D /* hacking-with-macos.pdf in Resources */,
+				52ED83F025376CB000F42F9D /* server-side-swift.pdf in Resources */,
+				52ED83EC25376CB000F42F9D /* beyond-code.pdf in Resources */,
 				52ED83D725376C7100F42F9D /* LaunchScreen.storyboard in Resources */,
+				52ED83EE25376CB000F42F9D /* hacking-with-swift.pdf in Resources */,
+				52ED83F325376CB000F42F9D /* pro-swift.pdf in Resources */,
 				52ED83D425376C7100F42F9D /* Assets.xcassets in Resources */,
+				52ED83ED25376CB000F42F9D /* hacking-with-tvos.pdf in Resources */,
+				52ED83F625376CB000F42F9D /* objective-c-for-swift-developers.pdf in Resources */,
+				52ED83F125376CB000F42F9D /* swift-coding-challenges.pdf in Resources */,
 				52ED83D225376C6F00F42F9D /* Main.storyboard in Resources */,
+				52ED83F225376CB000F42F9D /* practical-ios-11.pdf in Resources */,
+				52ED83EF25376CB000F42F9D /* hacking-with-watchos.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +197,8 @@
 			files = (
 				52ED83CF25376C6F00F42F9D /* ViewController.swift in Sources */,
 				52ED83CB25376C6F00F42F9D /* AppDelegate.swift in Sources */,
+				52ED84132539FF7200F42F9D /* SampleWatermark.swift in Sources */,
+				52ED83F925376CEE00F42F9D /* FilesViewController.swift in Sources */,
 				52ED83CD25376C6F00F42F9D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -289,6 +349,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3PTYV272Z4;
 				INFOPLIST_FILE = PDFSampler/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -308,6 +369,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3PTYV272Z4;
 				INFOPLIST_FILE = PDFSampler/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
